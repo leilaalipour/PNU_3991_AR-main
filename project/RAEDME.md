@@ -39,14 +39,6 @@
  </tr>
  
  <tr>
- <td  align="center">https://leilaalipour.github.io/leilaalipour/</td>
- <td  align="center">https://leilaalipour.github.io/leilaalipour/</td>
- <td  align="center">لیلا علی پور</td>
- <td  align="center">980218741</td>
- <td align="center">3</td>
- </tr>
- 
- <tr>
  <td  align="center">https://faeze-qlr.github.io/me/SOP.pdf</td>
  <td  align="center">https://faeze-qlr.github.io/me/faeze-qollar.pdf</td>
  <td  align="center">فائزه قلار</td>
