@@ -26,7 +26,7 @@
  <td  align="center">https://leilaalipour.github.io/leilaalipour_/</td>
  <td  align="center">https://leilaalipour.github.io/leilaalipour_/</td>
  <td  align="center">لیلا علی پور</td>
- <td  align="center">980218741</td>
+ <td  align="center">963924448</td>
  <td align="center">1</td>
  </tr>
  
@@ -34,7 +34,7 @@
  <td  align="center">https://minaghasemi7.github.io/sop/</td>
  <td  align="center">https://mohamadimahnaz.github.io/resome/</td>
  <td  align="center">مینا قاسمی</td>
- <td  align="center">980199613</td>
+ <td  align="center">963930469</td>
  <td align="center">2</td>
  </tr>
  
@@ -50,7 +50,7 @@
  <td  align="center">https://fatemeh7720.github.io/SOP/</td>
  <td  align="center">https://fatemeh7720.github.io/RESUME/</td>
  <td  align="center">فاطمه ایرانی</td>
- <td  align="center">970000454</td>
+ <td  align="center">963769777</td>
  <td align="center">4</td>
  </tr>
  
